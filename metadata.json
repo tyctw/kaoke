@@ -1,0 +1,6 @@
+{
+  "name": "高職科別與統測考科介紹",
+  "description": "提供給國中會考生參考的高職（技術型高中）群科別總覽與統測專業考科查詢平台。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
